@@ -13,7 +13,7 @@
 !/Config/**
 !/Plugins/**
 
-!/Content/RenegadeJammer/**
+!/Content/**
 !/RenegadeJammer.png
 
 # Allow any files from /RawContent dir.
